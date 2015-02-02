@@ -9,3 +9,13 @@
 .nav li {
   display: inline;
 }
+
+.jumbotron {
+ background-image: url('http://mkalty.org/wp-content/uploads/2014/07/Beautiful-Mountain-Scenery.jpg');
+ height: 800px
+ background-size: cover;
+}
+
+.jumbotron h {
+ 
+}
