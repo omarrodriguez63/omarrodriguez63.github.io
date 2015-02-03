@@ -12,10 +12,11 @@
 
 .jumbotron {
  background-image: url('http://mkalty.org/wp-content/uploads/2014/07/Beautiful-Mountain-Scenery.jpg');
- height: 800px
+ height: 800px;
  background-size: cover;
 }
 
-.jumbotron h {
- 
+.jumbotron .container {
+ position: relative;
+ top: 90px;
 }
