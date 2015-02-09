@@ -33,9 +33,15 @@ jumbotron p {
  color: #282828;
 }
 
-.images .container h2 {
+.Images h2 {
  font-size: 30px;
  color: #282828;
  font-family: 'shift', sans-serif;
+ font-weight: bold;
 }
 
+.Images p {
+ font-size: 15px;
+ font-family: 'shift', sans-serif;
+ color: #282828;
+}
